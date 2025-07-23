@@ -1,6 +1,6 @@
 # 👋 Halo, saya Iksan Sapani
 
-Saya adalah seorang **Software Enginer** yang bekerja di [PT Irvankede SMM](https://irvankedesmm.co.id/).  
+Saya adalah seorang **Software Engineer** yang bekerja di [PT Irvankede SMM](https://irvankedesmm.co.id/).  
 Saat ini saya juga sedang fokus mengembangkan **aplikasi mobile menggunakan Kotlin untuk Android**,  
 serta membangun berbagai **program dan otomasi menggunakan Python**.
 
